@@ -1,0 +1,25 @@
+Git komendy:
+
+git clone <link>
+git commit -m
+git commit -am
+			-v
+git log
+git log --stats
+gitk -all #otwiera GUI
+git checkout <nazwa brancha>
+git branch
+git branch <nazwa nowego brancha>
+git rebase master
+git merge first
+git reset --hard ORIG_HEAD #cofa merge
+git stash "komentarz"
+git stash list
+git stash apply
+git branch -b <nazwa>
+git branch -d <nazwa>
+git branch -D <nazwa>
+git stash clear
+git push
+git pull ??
+git fetch ??
